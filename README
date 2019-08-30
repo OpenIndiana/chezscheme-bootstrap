@@ -1,0 +1,6 @@
+Chez Scheme Bootstrap Files for illumos
+=======================================
+
+These files are used to bootstrap Chez Scheme on Solaris/illumos x86, all of them are included although ta6s2 only is used on threaded amd64 platforms.
+
+The files will need to be generated for each future update, on a platform for which Chez ships bootstrap files (how to do so is documented in their build documentation).
